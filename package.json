@@ -1,0 +1,17 @@
+{
+  "name": "broccoli-timer",
+  "version": "0.0.0",
+  "description": "A set of helpers to measure/time broccoli render trees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "broccoli-plugin"
+  ],
+  "author": "The PropleDoc Frontend Team",
+  "license": "ISC",
+  "dependencies": {
+    "broccoli-plugin": "^1.3.0"
+  }
+}
